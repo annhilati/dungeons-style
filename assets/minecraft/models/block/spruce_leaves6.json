@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves_notint6",
+    "textures": {
+        "0":"block/spruce_leaves"
+    }
+}

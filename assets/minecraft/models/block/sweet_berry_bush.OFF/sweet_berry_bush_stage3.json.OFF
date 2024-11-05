@@ -1,0 +1,6 @@
+{
+  "parent":"block/leaves6",
+  "textures": {
+      "0":"minecraft:block/sweet_berry_bush_stage3"
+  }
+}
