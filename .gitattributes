@@ -4,3 +4,6 @@
 **.json linguist-detectable
 assets/minecraft/blockstates/*.json linguist-vendored=true
 assets/minecraft/models/block/*.json linguist-vendored=true
+
+**.mcmeta linguist-detectable
+**.mcmeta linguist-language=JSON
