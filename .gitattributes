@@ -2,5 +2,5 @@
 **.properties linguist-language=Java-Properties
 
 **.json linguist-detectable
-assets/minecraft/blockstates/*.json linguist-vendored
-assets/minecraft/blockstates/block/*.json linguist-vendored
+assets/minecraft/blockstates/*.json linguist-vendored=true
+assets/minecraft/models/block/*.json linguist-vendored=true
