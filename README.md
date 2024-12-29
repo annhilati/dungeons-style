@@ -6,7 +6,9 @@ This pack takes a lot of textures found in and known from Minecraft Dungeons, ad
 ## About Biomes
 Every biome features some unique textures. Many biomes have a special grass texture and some trees and their leaves are changed
 
-## The Feature of this pack
+## The Future of this pack
+Before reading what I really want to say about that, please note, that I switch between my projects frequently, wich means, that this project may does not get updates for a while. But as long as this Modrinth project/GitHub Repository exists unarchived it isn't dead!
+
 Features get added mostly biome-wise.
 Since there are a lot of textures I can use there is much room for improvement. And improvement will be there. Everything that doesn't look exactly right will be fixed soon or later!
 
