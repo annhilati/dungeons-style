@@ -16,4 +16,4 @@ Since there are a lot of textures I can use there is much room for improvement. 
 - <a href="https://modrinth.com/resourcepack/knights-dungeon-dirt">Knight's Dungeon Dirt</a></li>
 - <a href="https://modrinth.com/resourcepack/better-leaves">Motschen's Better Leaves
 
-https://gist.github.com/annhilati/fe0aa36a344e3386212177a57392ad38
+<a href="https://gist.github.com/annhilati/fe0aa36a344e3386212177a57392ad38"><img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=78c5b3eb6e71ba13760ef0eff38dce34&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
