@@ -1,5 +1,0 @@
-matchBlocks=short_grass
-method=random #overlay doesn't work
-tiles=short_grass_1 short_grass_2 short_grass_3 short_grass_4
-
-weight=25 25 25 25
