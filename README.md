@@ -7,13 +7,13 @@ This pack takes a lot of textures found in and known from Minecraft Dungeons, ad
 Every biome features some unique textures. Many biomes have a special grass texture and some trees and their leaves are changed
 
 <details>
-  <summary>Overview</summary>
-  
+  <summary>Biome Category Overview</summary>
+  <br>
   Category | Vanilla Biomes | Terralith Biomes
   -------- | -------------- | ----------------
   Dry      | Savanna, Savanna Plateau, Windswept Savanna, Badlands, Eroded Badlands, Wooded Badlands | White Mesa, Warped Mesa, Bryce Canyon
   Soggy    | Swamp, Mangrove Swamp |
-  Sandy    | Desert |
+  Sandy    | Desert | Desert Canyon, Desert Spires
   Lush     | Jungle, Sparse Jungle, Bamboo Jungle | Jungle Mountains, Tropical Jungle
   Frosty   | Snowy Plaibs, Ice SPikes, Snowy Taiga, Grove, Snowy Slopes, Frozen Peaks, Jagged Peaks, Frozen River, Frozen Ocean, Deep Frozen Ocean | Wintry Forest, Wintry Lowlands, Alpine Grove, Alpha Islands Winter, Frozen Cliffs, Glacial Chasm, Snowy Badlands, Emerald Peaks
   Windy    | Windswept Hills, Windswept Gravelly Hills, Windswept Forest
