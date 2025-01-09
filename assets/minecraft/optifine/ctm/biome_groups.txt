@@ -1,4 +1,4 @@
-dry: savanna savanna_plateau windswept_savanna badlands eroded_badlands wooded_badlands terralith:white_mesa terralith:warped_mesa terralith:bryce_canyon
+dry: savanna savanna_plateau windswept_savanna badlands eroded_badlands wooded_badlands terralith:white_mesa terralith:warped_mesa terralith:bryce_canyon terralith:savanna_badlands terralith:savanna_slopes terralith:fractured_savanna
 soggy: swamp mangrove_swamp
 sandy: desert terralith:desert_canyon terralith:desert_spires
 lush: jungle sparse_jungle bamboo_jungle terralith:jungle_mountains terralith:tropical_jungle
