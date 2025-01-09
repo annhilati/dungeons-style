@@ -7,17 +7,20 @@ This pack takes a lot of textures found in and known from Minecraft Dungeons, ad
 Every biome features some unique textures. Many biomes have a special grass texture and some trees and their leaves are changed
 
 <details>
-  <summary>Overwiev</summary>
+  <summary>Overview</summary>
   
   Category | Vanilla Biomes | Terralith Biomes
   -------- | -------------- | ----------------
   Dry      | Savanna, Savanna Plateau, Windswept Savanna, Badlands, Eroded Badlands, Wooded Badlands | White Mesa, Warped Mesa, Bryce Canyon
-
+  Soggy    | Swamp, Mangrove Swamp |
+  Sandy    | Desert |
+  Lush     | Jungle, Sparse Jungle, Bamboo Jungle
+  Frosty   | Snowy Plaibs, Ice SPikes, Snowy Taiga, Grove, Snowy Slopes, Frozen Peaks, Jagged Peaks, Frozen River, Frozen Ocean, Deep Frozen Ocean | Wintry Forest, Wintry Lowlands, Alpine Grove, Alpha Islands Winter, Frozen Cliffs, Glacial Chasm, Snowy Badlands, Emerald Peaks
 </details>
 
 
 ## The Future of this pack
-Before reading what I really want to say about that, please note, that I switch between my projects frequently, wich means, that this project may does not get updates for a while. But as long as this Modrinth project/GitHub Repository exists unarchived it isn't dead!
+Before reading what I really want to say about that, please note, that I switch between my projects frequently, wich means, that this project may do not get updates for a while. But as long as this Modrinth project/GitHub Repository exists unarchived it isn't dead!
 
 Features get added mostly biome-wise.
 Since there are a lot of textures I can use there is much room for improvement. And improvement will be there. Everything that doesn't look exactly right will be fixed soon or later!
