@@ -1,6 +1,6 @@
 dry: savanna savanna_plateau windswept_savanna badlands eroded_badlands wooded_badlands terralith:white_mesa terralith:warped_mesa terralith:bryce_canyon
 soggy: swamp mangrove_swamp
 sandy: desert
-lush: jungle sparse_jungle bamboo_jungle
+lush: jungle sparse_jungle bamboo_jungle terralith:jungle_mountains terralith:tropical_jungle
 frosty: snowy_plains ice_spikes snowy_taiga grove snowy_slopes frozen_peaks jagged_peaks frozen_river frozen_ocean deep_frozen_ocean terralith:wintry_forest terralith:wintry_lowlands terralith:alpine_grove terralith:alpha_islands_winter terralith:frozen_cliffs terralith:glacial_chasm terralith:snowy_badlands terralith:emerald_peaks
 windy: windswept_hills windswept_gravelly_hills windswept_forest
