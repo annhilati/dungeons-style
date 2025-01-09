@@ -1,10 +1,20 @@
-<a href="https://modrinth.com/mod/continuity"><img src="https://raw.githubusercontent.com/annhilati/devins-badges-extended/8ca058f5334de6146a52578aefc5326fc275aed3/assets/cozy/requires/ctm_vector.svg" height="50"></a> <a href="https://modrinth.com/datapack/terralith"><img src="https://raw.githubusercontent.com/annhilati/devins-badges-extended/d9d337caa0ce3134d56baac4f259e83ce91b365e/assets/cozy/works-with/terralith_vector.svg" height="50"> <a href="https://discord.gg/2YvbptpAqz"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy-minimal/social/discord-singular_vector.svg" height="50"></a>
+<a href="https://modrinth.com/mod/continuity"><img src="https://raw.githubusercontent.com/annhilati/devins-badges-extended/8ca058f5334de6146a52578aefc5326fc275aed3/assets/cozy/requires/ctm_vector.svg" height="50"></a><a href="https://discord.gg/2YvbptpAqz"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy-minimal/social/discord-singular_vector.svg" height="50"></a>
 
 ## Abstract
 This pack takes a lot of textures found in and known from Minecraft Dungeons, adapts them and embeds them into Minecraft with respect to logic and focus on making world generation more beautiful.
 
 ## About Biomes
 Every biome features some unique textures. Many biomes have a special grass texture and some trees and their leaves are changed
+
+<details>
+  <summary>Overwiev</summary>
+  
+  Category | Vanilla Biomes | Terralith Biomes
+  -------- | -------------- | ----------------
+  Dry      | Savanna, Savanna Plateau, Windswept Savanna, Badlands, Eroded Badlands, Wooded Badlands | White Mesa, Warped Mesa, Bryce Canyon
+
+</details>
+
 
 ## The Future of this pack
 Before reading what I really want to say about that, please note, that I switch between my projects frequently, wich means, that this project may does not get updates for a while. But as long as this Modrinth project/GitHub Repository exists unarchived it isn't dead!
