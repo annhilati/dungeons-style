@@ -12,7 +12,7 @@ Every biome features some unique textures. Many biomes have a special grass text
 
   Category | Vanilla Biomes | Terralith Biomes
   -------- | -------------- | ----------------
-  Dry      | Savanna, Savanna Plateau, Badlands, Eroded Badlands, Wooded Badlands | White Mesa, Warped Mesa, Bryce Canyon, Savanna Badlands, Savanna Slopes, Fractured Savanna
+  Dry      | Savanna, Savanna Plateau, Badlands, Eroded Badlands, Wooded Badlands | White Mesa, Warped Mesa, Bryce Canyon, Savanna Badlands, Savanna Slopes, Fractured Savanna, Hot Shrubland
   Frosty   | Snowy Plains, Ice Spikes, Snowy Taiga, Grove, Snowy Slopes, Frozen Peaks, Jagged Peaks, Frozen River, Frozen Ocean, Deep Frozen Ocean | Wintry Forest, Wintry Lowlands, Alpine Grove, Alpha Islands Winter, Frozen Cliffs, Glacial Chasm, Snowy Badlands, Emerald Peaks
   Lush     | Jungle, Sparse Jungle, Bamboo Jungle | Jungle Mountains, Tropical Jungle
   Sandy    | Desert | Desert Canyon, Desert Spires
