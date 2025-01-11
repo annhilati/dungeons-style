@@ -1,5 +1,5 @@
 {
-    "parent": "betterleaves:block/leaves",
+    "parent": "betterleaves:block/leaves_notint",
     "textures": {
         "all": "minecraft:block/spruce_leaves"
     }
