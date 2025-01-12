@@ -3,4 +3,4 @@ frosty: snowy_plains ice_spikes snowy_taiga grove snowy_slopes frozen_peaks jagg
 lush: jungle sparse_jungle bamboo_jungle terralith:jungle_mountains terralith:tropical_jungle terralith:rocky_jungle
 sandy: desert terralith:desert_canyon terralith:desert_spires
 soggy: swamp mangrove_swamp
-windy: windswept_hills windswept_gravelly_hills windswept_forest stony_peaks 
+windy: windswept_hills windswept_gravelly_hills windswept_forest stony_peaks terralith:windswept_spires

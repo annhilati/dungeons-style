@@ -17,7 +17,7 @@ Every biome features some unique textures. Many biomes have a special grass text
   Lush     | Jungle, Sparse Jungle, Bamboo Jungle | Jungle Mountains, Tropical Jungle
   Sandy    | Desert | Desert Canyon, Desert Spires
   Soggy    | Swamp, Mangrove Swamp |
-  Windy    | Windswept Hills, Windswept Gravelly Hills, Windswept Forest, Stony Peaks
+  Windy    | Windswept Hills, Windswept Gravelly Hills, Windswept Forest, Stony Peaks | Windswept Spires
 </details>
 
 
