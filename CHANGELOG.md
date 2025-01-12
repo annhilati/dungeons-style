@@ -1,20 +1,16 @@
-## [0.4.2](https://pypi.org/project/vpmobil/0.4.2/) (2024-12-28)
+## [0.0.2](https://modrinth.com/resourcepack/annhilatis-dungeons-style/version/0.0.2) (Future)
 
-### 🔧 Änderungen
+### ✨ New Content
 
-* Werkzeugsammlungsklasse von `vpmobil.VpMobil` in `vpmobil.workflow` umbenannt
+* Added support for most [Terralith](https://modrinth.com/datapack/terralith) biomes
+* Added new `windy` category
+  * Features diverse windswept biomes
+  * Features a lot of textures
+* Added new `deep` category
+  * Features Dark Forests and currently just dark oak leaves
 
-### 🪲 Bug Fixes
+### 🔧 Changes
 
-* added missing type 'module' in package.json ([addf188](https://github.com/Vertretungsapp/indiware-api/commit/addf1883657d771ea4bac4bb70c2018844994293))
-
-
-### 🔧 Other Changes
-
-* reduced package size ([addf188](https://github.com/Vertretungsapp/indiware-api/commit/addf1883657d771ea4bac4bb70c2018844994293))
-
-
-### 🚀 CI/CD Changes
-
-* added automated npm release ([591db95](https://github.com/Vertretungsapp/indiware-api/commit/591db95bb6f8566046592de47511df9cdb628735))
-* added release-please ([c64b5e1](https://github.com/Vertretungsapp/indiware-api/commit/c64b5e1d29030e6558588de152bf06754f669573))
+* Upgraded to [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) V9.0
+* Changed how a combination of ctm-texturing and colormap-use is used in one biome
+  * Custom plants now look way better
