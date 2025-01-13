@@ -8,6 +8,9 @@
   * Features a lot of textures
 * Added new `deep` category
   * Features Dark Forests and currently just dark oak leaves
+* Added new `frosty` category
+  * Features nearly all snow related biomes
+  * Features a lot of texture to make vegatation snowy white
 
 ### 🔧 Changes
 
