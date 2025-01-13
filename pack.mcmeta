@@ -1,7 +1,11 @@
 {
     "pack": {
       "pack_format": 34,
-      "description": "Mein Resource Pack"
+      "description": "Mein Resource Pack",
+      "supported_formats": {
+        "min_inclusive": 15,
+        "max_inclusive": 61
+      }
     }
   }
   
