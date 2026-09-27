@@ -3,18 +3,26 @@ import beet.contrib.optifine as of
 import javaproperties
 from pathlib import Path
 
+from lib import BetterLeaves
+
 BUILD = Path(__file__).parent / "build"
 
 
 def beet_default(ctx: beet.Context):
 
     rp = beet.ResourcePack(
+        name="Annhilati's Dungeons Style",
         path="src",
         extend_namespace=(
             of.OptifineProperties,
             of.OptifineTexture
         )
     )
+
+    # Step 0
+
+    leaf_pack = BetterLeaves.get_pack()
+    rp.merge(leaf_pack)
 
     # Step 1
 
@@ -26,4 +34,5 @@ def beet_default(ctx: beet.Context):
         if (biomes := data.get("biomes")):
             biomes = biomes.split(" ")
 
-    rp.save(BUILD / "out", overwrite=True)
+
+    rp.save(BUILD, overwrite=True)

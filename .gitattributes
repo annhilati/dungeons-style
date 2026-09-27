@@ -2,6 +2,8 @@
 **.properties linguist-language=Java-Properties
 
 **.json linguist-detectable=true
+**.yaml linguist-detectable=true
+**.yml linguist-detectable=true
 
 **.mcmeta linguist-detectable
 **.mcmeta linguist-language=JSON

@@ -1,0 +1,3 @@
+[submodule "lib/BetterLeaves"]
+	path = lib/BetterLeaves
+	url = https://github.com/TeamMidnightDust/BetterLeavesLite.git
