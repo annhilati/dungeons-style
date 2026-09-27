@@ -6,7 +6,7 @@ import os
 def get_pack():
     BetterLeaves = Path(__file__).parent / 'BetterLeaves'
     
-    command = ['python', 'gen_pack.py', '1.0', '--minify']
+    command = ['python', 'gen_pack.py', '9.5', '§aVanilla', 'Edition', '--minify']
     
     # Zwingt den Subprocess (gen_pack.py), UTF-8 anstatt des Windows-Standard-Encodings zu nutzen
     env = os.environ.copy()
@@ -20,7 +20,7 @@ def get_pack():
         env=env
     )
 
-    rp = beet.ResourcePack(path=BetterLeaves / "Better-Leaves-1.0.zip", zipped=True)
+    rp = beet.ResourcePack(path=BetterLeaves / "Better-Leaves-9.5.zip", zipped=True)
     
     # Reset the BetterLeaves git submodule komplett, nachdem das Pack geladen wurde
     subprocess.run(['git', 'restore', '.'], cwd=BetterLeaves)
