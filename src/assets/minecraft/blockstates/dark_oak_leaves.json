@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "cases": [
+        { 
+          "when": "b.biome == 'minecraft:dark_forest'", 
+          "model": { "model": "ads:block/dark_forest/dark_oak_leaves" } 
+        }
+      ],
+      "fallback": { "model": "minecraft:block/leaves" }
+    }
+  }
+}

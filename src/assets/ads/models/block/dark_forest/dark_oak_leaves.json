@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "ads:block/dark_forest/dark_oak_leaves"
+  }
+}

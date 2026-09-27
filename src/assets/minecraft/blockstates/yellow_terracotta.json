@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": {
+      "type": "polytone:expression",
+      "fabric:type": "polytone:expression",
+      "cases": [
+        { 
+          "when": "b.biome == 'terralith:yellowstone'", 
+          "model": { "model": "minecraft:block/yellow_terracotta" } 
+        }
+      ],
+      "fallback": { "model": "ads:block/yellowstone/yellow_terracotta" }
+    }
+  }
+}
