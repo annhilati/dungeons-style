@@ -1,0 +1,6 @@
+resource_pack:
+  pack_format: 6
+  # we dont load. All will be done in build.py
+pipeline:
+  - build
+output: build
