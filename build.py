@@ -21,8 +21,9 @@ def beet_default(ctx: beet.Context):
 
     # Step 0
 
-    leaf_pack = BetterLeaves.get_pack()
+    leaf_pack = BetterLeaves.get_pack() 
     rp.merge(leaf_pack)
+    print(f"rp models count: {len(rp.models)}")
 
     # Step 1
 
