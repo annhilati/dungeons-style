@@ -19,14 +19,15 @@ def get_pack():
         text=True,
         env=env
     )
-    print(result.stdout)
-    print(result.stderr)
+    
+    if result.returncode != 0:
+        raise RuntimeError(f"gen_pack.py failed!\nSTDOUT: {result.stdout}\nSTDERR: {result.stderr}")
 
     rp = beet.ResourcePack(path=BetterLeaves / "Better-Leaves-9.5.zip", zipped=True)
     
     # Reset the BetterLeaves git submodule komplett, nachdem das Pack geladen wurde
-    #subprocess.run(['git', 'restore', '.'], cwd=BetterLeaves)
-    #subprocess.run(['git', 'clean', '-fd'], cwd=BetterLeaves)
+    subprocess.run(['git', 'restore', '.'], cwd=BetterLeaves)
+    subprocess.run(['git', 'clean', '-fd'], cwd=BetterLeaves)
     # Verhindere, dass die pack.mcmeta/pack.png vom Sub-Pack dein Hauptpack überschreiben
     rp.extra.pop("pack.mcmeta", None)
     rp.extra.pop("pack.png", None)
